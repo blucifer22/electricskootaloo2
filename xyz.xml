@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="google.com">
+    <title>Tasks</title>
+    <link>google.com</link>
+    <description>Tasks for you to complete</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li />
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="google.com/webhp">
+    <title>Drink Water</title>
+    <link>google.com/webhp</link>
+    <description>Nerd</description>
+  </item>
+</rdf:RDF>
+
